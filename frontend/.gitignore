@@ -9,7 +9,9 @@ lerna-debug.log*
 
 node_modules
 public 
-src
+pages
+components
+customHooks
 
 dist
 dist-ssr
